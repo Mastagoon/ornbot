@@ -1,0 +1,17 @@
+{
+  "name": "ornbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.6.12",
+    "dotenv": "^16.0.2",
+    "openai": "^4.0.1"
+  },
+  "scripts": {
+    "dev": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
